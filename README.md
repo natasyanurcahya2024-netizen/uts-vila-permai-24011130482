@@ -2,7 +2,7 @@
 
 * **Nama Mahasiswa:** Natasya Nurcahya
 * **Nomor Induk Mahasiswa (NIM):** 24011130482
-* **Program Studi / Kelas:** D3 Manajemen Informatika / Semester 5
+* **Program Studi / Kelas:** D3 Manajemen Informatika / MI5BM
 * **Mata Kuliah:** Teknologi Web 
 
 ## Deskripsi Singkat Fitur
