@@ -27,10 +27,3 @@ Aplikasi web untuk pemesanan unit sewa vila permai puncak di Bogor berbasis (HTM
 2. `feat: struktur HTML halaman villa permai`
 3. `feat: styling CSS responsif dan box model`
 4. `feat: logika JavaScript pemesanan, kalkulasi, dan localStorage`
-
-# Tampilan Web responsif mobile view
-![alt text](<Screenshot 2026-11-05 172305.png>)
-# Tampilan 4 commit
-![alt text](<Screenshot 2026-11-05 172348-1.png>)
-# Tampilan Web
-![alt text](<Screenshot 2026-11-05 172026.png>)
