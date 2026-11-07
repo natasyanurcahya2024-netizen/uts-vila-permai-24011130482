@@ -6,7 +6,7 @@
 * **Mata Kuliah:** Teknologi Web 
 
 ## Deskripsi Singkat Fitur
-Aplikasi web untuk pemesanan unit sewa vila permai puncak di Bogor berbasis (HTNL, CSS, JavaScript) dan untuk memenuhi UTS Teknologi Web(`localStorage`).
+Aplikasi web untuk pemesanan unit sewa vila permai puncak di Bogor berbasis (HTML, CSS, JavaScript) dan untuk memenuhi UTS Teknologi Web(`localStorage`).
 
 ## Cara Menjalankan Halaman
 1. Unduh atau clone repository ini ke komputer lokal Anda.
