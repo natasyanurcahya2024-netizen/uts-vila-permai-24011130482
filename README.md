@@ -6,7 +6,7 @@
 * **Mata Kuliah:** Teknologi Web 
 
 ## Deskripsi Singkat Fitur
-Aplikasi web statis interaktif untuk pemesanan unit sewa Vila Permai di kawasan Puncak, Kabupaten Bogor. Dibangun tanpa back-end server maupun basis data eksternal, memanfaatkan struktur array objek JavaScript, kalkulasi biaya otomatis, validasi formulir berbahasa Indonesia, fitur pencarian instan, serta penyimpanan lokal (`localStorage`).
+Aplikasi web untuk pemesanan unit sewa vila permai puncak di Bogor berbasis (HTNL, CSS, JavaScript) dan untuk memenuhi UTS Teknologi Web(`localStorage`).
 
 ## Cara Menjalankan Halaman
 1. Unduh atau clone repository ini ke komputer lokal Anda.
@@ -27,3 +27,10 @@ Aplikasi web statis interaktif untuk pemesanan unit sewa Vila Permai di kawasan 
 2. `feat: struktur HTML halaman villa permai`
 3. `feat: styling CSS responsif dan box model`
 4. `feat: logika JavaScript pemesanan, kalkulasi, dan localStorage`
+
+# Tampilan Web responsif mobile view
+![alt text](<Screenshot 2026-11-05 172305.png>)
+# Tampilan 4 commit
+![alt text](<Screenshot 2026-11-05 172348-1.png>)
+# Tampilan Web
+![alt text](<Screenshot 2026-11-05 172026.png>)
