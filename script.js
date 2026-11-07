@@ -1,7 +1,7 @@
 const dataVila = [
     {
         id: "v1",
-        nama: "Vila Anggrek",
+        nama: "Vila AA",
         tipe: "3 Kamar Tidur + Kolam Renang Pribadi",
         lokasi: "Puncak Pass, Bogor",
         harga: 1250000,
@@ -10,7 +10,7 @@ const dataVila = [
     },
     {
         id: "v2",
-        nama: "Vila Melati",
+        nama: "Vila Teteh",
         tipe: "2 Kamar Tidur - View Pegunungan",
         lokasi: "Cisarua, Bogor",
         harga: 850000,
