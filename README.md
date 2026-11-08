@@ -28,4 +28,4 @@ Penyimpanan riwayat pesanan menggunakan `localStorage`.
 ![alt text](<Mobile view.jpeg>)
 
 # Riwayat commit pada GitHub
-Screenshot 2026-11-05 172348
+![alt text](Commit.png)
